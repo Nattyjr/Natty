@@ -12,10 +12,17 @@ html {
 
 /* adjust typography defaults */
 body {
-  margin: 1rem;
+  margin: 2rem;
   font-family: sans-serif;
   line-height: 1.5;
+  color: black;
 }
+
+button {
+  padding: 12px;
+  border-radius: 12px;
+}
+
 
 /* images and videos max out at full width */
 img,
