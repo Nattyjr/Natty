@@ -34,9 +34,7 @@ The following additional features are implemented:
 [x] Volume slider
 
 
-Interview recording url
 
-https://www.youtube.com/watch?v=IJR9t9UtQdI
 
 
 
@@ -69,3 +67,8 @@ After completing this submission, I became more curious about how much one could
 
 4.If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 If I had more time to work on this project, I would probably try to get the sequence to play out some sort of series of notes, either in a scale or copying the notes of a popular music/song. The latter is more interesting, but would likely require an already existing database of what pitch each note is at, or I would have to manually figure it out/create a program to parse the sounds, which would take a very long time. I would also try to clean up the code, since it has a lot of global variables and inefficient code since I was just trying to get something to work on account of not knowing javascript well. While not particularly complicated, I don’t know if the code will still be readable to me in 6 months as is. I would also just spend some time reading through and understanding the code, especially in parts were complicated and not clearly explained like the sound synthesis functions.
+
+Interview recording url
+
+https://www.youtube.com/watch?v=IJR9t9UtQdI
+
